@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GridLayout</string>
+    <string name="btn1">Aqua</string>
+    <string name="btn2">Aquamarine</string>
+    <string name="btn3">Blue</string>
+    <string name="btn4">Cyan</string>
+    <string name="btn5">DarkViolet</string>
+    <string name="btn6">Gold</string>
+    <string name="btn7">LawnGreen</string>
+    <string name="btn8">OrangeRed</string>
+    <string name="btn9">RoyalBlue</string>
+</resources>
